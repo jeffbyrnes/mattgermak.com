@@ -1,0 +1,798 @@
+# Localization file for K2.
+# k2.pot was created by Ralph Inselsbacher <l10n@rainonline.ws>.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2006-04-02 16:35+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: navigation.php:19
+msgid "Previous Entries"
+msgstr ""
+
+#: navigation.php:20
+msgid "Next Entries"
+msgstr ""
+
+#: functions.php:35
+#: options/display/form.php:14
+msgid "K2 Options"
+msgstr ""
+
+#: footer.php:8
+#, php-format
+msgid "%1$s is powered by %2$s and %3$s by %4$s, %5$s and %6$s."
+msgstr ""
+
+#: footer.php:10
+#, php-format
+msgid "<a href=\"%1$s\">RSS Entries</a> and <a href=\"%2$s\">RSS Comments</a>"
+msgstr ""
+
+#: footer.php:12
+#, php-format
+msgid "%d queries. %.4f seconds."
+msgstr ""
+
+#: theloop.php:22
+#, php-format
+msgid "Archive for the '%s' Category"
+msgstr ""
+
+#: theloop.php:25
+#: theloop.php:28
+#: theloop.php:31
+#, php-format
+msgid "Archive for %s"
+msgstr ""
+
+#: theloop.php:25
+#: theloop.php:132
+#: livesearch.php:15
+msgid "F jS, Y"
+msgstr ""
+
+#: theloop.php:28
+#: sidebar.php:50
+msgid "F, Y"
+msgstr ""
+
+#: theloop.php:31
+msgid "Y"
+msgstr ""
+
+#: theloop.php:34
+#, php-format
+msgid "Search Results for '%s'"
+msgstr ""
+
+#: theloop.php:39
+#, php-format
+msgid "Author Archive for %s"
+msgstr ""
+
+#: theloop.php:43
+#, php-format
+msgid "Archive Page %s"
+msgstr ""
+
+#: theloop.php:70
+#: theloop.php:113
+#: page-comments.php:16
+#: page.php:12
+#: page-archives.php:28
+#: livesearch.php:15
+#, php-format
+msgid "Permanent Link to \"%s\""
+msgstr ""
+
+#: theloop.php:73
+#: theloop.php:148
+#: page-comments.php:17
+#: page.php:13
+#: page-archives.php:29
+#: comments.php:56
+#: comments.php:84
+msgid "Edit"
+msgstr ""
+
+#: theloop.php:76
+#: theloop.php:117
+#: sidebar.php:82
+msgid "Comments"
+msgstr ""
+
+#: theloop.php:76
+#: theloop.php:117
+msgid "Comment"
+msgstr ""
+
+#: theloop.php:76
+#: theloop.php:117
+msgid "Closed"
+msgstr ""
+
+#: theloop.php:81
+#: theloop.php:122
+#, php-format
+msgid "Published by %s"
+msgstr ""
+
+#: theloop.php:83
+#: theloop.php:124
+msgid "Published "
+msgstr ""
+
+#: theloop.php:89
+#: livesearch.php:15
+#: comments.php:55
+#: comments.php:84
+#, php-format
+msgid "%s ago."
+msgstr ""
+
+#: theloop.php:91
+msgid "F jS, Y."
+msgstr ""
+
+#: theloop.php:104
+#: theloop.php:159
+msgid "Continue reading"
+msgstr ""
+
+#: theloop.php:130
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: theloop.php:143
+#, php-format
+msgid "in %s."
+msgstr ""
+
+#: theloop.php:150
+msgid "Tags:"
+msgstr ""
+
+#: theloop.php:162
+#: page-comments.php:23
+#: page.php:19
+msgid "Pages:"
+msgstr ""
+
+#: theloop.php:162
+#: page-comments.php:23
+#: page.php:19
+msgid "number"
+msgstr ""
+
+#: theloop.php:180
+#: page.php:28
+msgid "Not Found"
+msgstr ""
+
+#: theloop.php:185
+#: page.php:33
+msgid "Oh no! You're looking for something which just isn't here! Fear not however, errors are to be expected, and luckily there are tools on the sidebar for you to use in your search for what you need."
+msgstr ""
+
+#: sidebar.php:8
+#: page-archives.php:67
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:26
+msgid "Subpages"
+msgstr ""
+
+#: sidebar.php:32
+#, php-format
+msgid "Back to %s"
+msgstr ""
+
+#: sidebar.php:39
+#: page-archives.php:72
+msgid "About"
+msgstr ""
+
+#: sidebar.php:44
+#, php-format
+msgid "You are currently browsing the %1$s weblog archives for the %2$s category."
+msgstr ""
+
+#: sidebar.php:47
+#, php-format
+msgid "You are currently browsing the %1$s weblog archives for the day %2$s."
+msgstr ""
+
+#: sidebar.php:47
+msgid "l, F jS, Y"
+msgstr ""
+
+#: sidebar.php:50
+#, php-format
+msgid "You are currently browsing the %1$s weblog archives for the month %2$s."
+msgstr ""
+
+#: sidebar.php:53
+#, php-format
+msgid "You are currently browsing the %1$s weblog archives for the year %2$s."
+msgstr ""
+
+#: sidebar.php:56
+#, php-format
+msgid "You have searched the %1$s weblog archives for '<strong>%2$s</strong>'. If you are unable to find anything in these search results, you can try one of the following sections."
+msgstr ""
+
+#: sidebar.php:59
+#, php-format
+msgid "Archive for <strong>%s</strong>."
+msgstr ""
+
+#: sidebar.php:63
+#, php-format
+msgid "You are currently browsing the %1$s weblog archives for %2$s."
+msgstr ""
+
+#: sidebar.php:66
+#, php-format
+msgid "You are currently browsing the %s weblog archives."
+msgstr ""
+
+#: sidebar.php:69
+msgid "Next: "
+msgstr ""
+
+#: sidebar.php:70
+msgid "Previous: "
+msgstr ""
+
+#: sidebar.php:75
+msgid "Longer entries are truncated. Click the headline of an entry to read it in its entirety."
+msgstr ""
+
+#: sidebar.php:83
+msgid "RSS Feed for all Comments"
+msgstr ""
+
+#: sidebar.php:92
+msgid "RSS Feed for Asides"
+msgstr ""
+
+#: sidebar.php:95
+msgid "Permanent Link to this aside"
+msgstr ""
+
+#: sidebar.php:95
+msgid "edit"
+msgstr ""
+
+#: sidebar.php:102
+#: page-archives.php:76
+msgid "Latest"
+msgstr ""
+
+#: sidebar.php:103
+msgid "RSS Feed for Blog Entries"
+msgstr ""
+
+#: sidebar.php:112
+msgid "RSS Feed for flickr"
+msgstr ""
+
+#: sidebar.php:120
+msgid "Feedlist"
+msgstr ""
+
+#: sidebar.php:134
+msgid "My del.icio.us links library"
+msgstr ""
+
+#: sidebar.php:135
+msgid "RSS Feed for del.icio.us links"
+msgstr ""
+
+#: sidebar.php:155
+msgid "Meta"
+msgstr ""
+
+#: sidebar.php:158
+msgid "This page validates as XHTML 1.0 Transitional"
+msgstr ""
+
+#: sidebar.php:158
+msgid "Valid <abbr title=\"eXtensible HyperText Markup Language\">XHTML</abbr>"
+msgstr ""
+
+#: sidebar.php:159
+msgid "This page validates as valid CSS"
+msgstr ""
+
+#: sidebar.php:159
+msgid "Valid <abbr title=\"Cascading Style Sheets\">CSS</abbr>"
+msgstr ""
+
+#: sidebar.php:161
+msgid "Powered by WordPress, state-of-the-art semantic personal publishing platform."
+msgstr ""
+
+#: sidebar.php:169
+#: page-archives.php:82
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:175
+#: page-archives.php:89
+msgid "Categories"
+msgstr ""
+
+#: sidebar.php:184
+msgid "Related Entries"
+msgstr ""
+
+#: comments-ajax.php:22
+msgid "The post you are trying to comment on does not curently exist in the database."
+msgstr ""
+
+#: comments-ajax.php:25
+msgid "Sorry, comments are closed for this item."
+msgstr ""
+
+#: comments-ajax.php:41
+msgid "Sorry, you must be logged in to post a comment."
+msgstr ""
+
+#: comments-ajax.php:48
+msgid "Error: please fill the required fields (name, email)."
+msgstr ""
+
+#: comments-ajax.php:50
+msgid "Error: please enter a valid email address."
+msgstr ""
+
+#: comments-ajax.php:54
+msgid "Error: please type a comment."
+msgstr ""
+
+#: comments-ajax.php:64
+msgid "Duplicate comment detected; it looks as though you've already said that!"
+msgstr ""
+
+#: 404.php:7
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: page-archives.php:34
+#, php-format
+msgid "This is the frontpage of the %1$s archives. Currently the archives are spanning %2$s posts and %3$s comments, contained within the meager confines of %4$s categories. Through here, you will be able to move down into the archives by way of time or category. If you are looking for something specific, perhaps you should try the search on the sidebar."
+msgstr ""
+
+#: page-archives.php:38
+msgid "Live Archives"
+msgstr ""
+
+#: page-archives.php:39
+#, php-format
+msgid "This is a 'live archive', which allows you to 'dig' into the %s repository in a fast an efficient way, without having to reload this page as you explore."
+msgstr ""
+
+#: page-archives.php:50
+msgid "Tag Cloud"
+msgstr ""
+
+#: page-archives.php:51
+#, php-format
+msgid "The following is a list of the tags used at %s, colored and 'weighed' in relation to their relative usage."
+msgstr ""
+
+#: page-archives.php:73
+#, php-format
+msgid "You are currently at the root of the %s archives. From here there are several options for burrowing into the archives."
+msgstr ""
+
+#: header.php:65
+msgid "Blog"
+msgstr ""
+
+#: searchform.php:2
+msgid "search blog archives"
+msgstr ""
+
+#: searchform.php:10
+msgid "go"
+msgstr ""
+
+#: rollingarchive.php:5
+msgid "Older"
+msgstr ""
+
+#: rollingarchive.php:22
+msgid "Loading"
+msgstr ""
+
+#: rollingarchive.php:25
+msgid "Newer"
+msgstr ""
+
+#: livesearch.php:15
+msgid "Go the the comments for this entry"
+msgstr ""
+
+#: livesearch.php:15
+msgid "e"
+msgstr ""
+
+#: livesearch.php:15
+msgid "Sorry, no results."
+msgstr ""
+
+#: comments.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:36
+#, php-format
+msgid "%1$s %2$s to &#8220;%3$s&#8221;"
+msgstr ""
+
+#: comments.php:36
+msgid "Response"
+msgstr ""
+
+#: comments.php:36
+msgid "Responses"
+msgstr ""
+
+#: comments.php:39
+msgid "Feed for this Entry"
+msgstr ""
+
+#: comments.php:40
+msgid "Copy this URI to trackback this entry."
+msgstr ""
+
+#: comments.php:40
+msgid "Trackback Address"
+msgstr ""
+
+#: comments.php:51
+msgid "What is this?"
+msgstr ""
+
+#: comments.php:51
+msgid "Gravatar Icon"
+msgstr ""
+
+#: comments.php:52
+#: comments.php:55
+#: comments.php:82
+#: comments.php:84
+msgid "Permanent Link to this Comment"
+msgstr ""
+
+#: comments.php:55
+#: comments.php:84
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: comments.php:55
+#: comments.php:84
+msgid "M jS, Y"
+msgstr ""
+
+#: comments.php:64
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:84
+msgid "on"
+msgstr ""
+
+#: comments.php:96
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:103
+msgid "Comments are currently closed."
+msgstr ""
+
+#: comments.php:115
+msgid "Posting Your Comment"
+msgstr ""
+
+#: comments.php:116
+msgid "Please Wait"
+msgstr ""
+
+#: comments.php:119
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:123
+#, php-format
+msgid "You must <a href=\"%s\">login</a> to post a comment."
+msgstr ""
+
+#: comments.php:142
+#, php-format
+msgid "Logged in as %s."
+msgstr ""
+
+#: comments.php:142
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:142
+msgid "Logout"
+msgstr ""
+
+#: comments.php:146
+#, php-format
+msgid "Welcome back <strong>%s</strong>"
+msgstr ""
+
+#: comments.php:147
+msgid "Change"
+msgstr ""
+
+#: comments.php:148
+msgid "Close"
+msgstr ""
+
+#: comments.php:154
+msgid "Name"
+msgstr ""
+
+#: comments.php:154
+#: comments.php:157
+msgid "(required)"
+msgstr ""
+
+#: comments.php:157
+msgid "Mail"
+msgstr ""
+
+#: comments.php:157
+msgid "will not be published"
+msgstr ""
+
+#: comments.php:160
+msgid "Website"
+msgstr ""
+
+#: comments.php:163
+#, php-format
+msgid "<strong>XHTML:</strong> You can use these tags %s:"
+msgstr ""
+
+#: comments.php:170
+msgid "Submit"
+msgstr ""
+
+#: options/app/info.php:60
+msgid "Default"
+msgstr ""
+
+#: options/app/info.php:92
+#, php-format
+msgid "Looks like your server supports neither %1$s nor %2$s. So you won't be able to use the following feature."
+msgstr ""
+
+#: options/display/form.php:3
+msgid "ELA Options for K2 have been set"
+msgstr ""
+
+#: options/display/form.php:9
+msgid "K2 Options have been updated"
+msgstr ""
+
+#: options/display/form.php:20
+msgid "K2 Scheme"
+msgstr ""
+
+#: options/display/form.php:30
+#: options/display/form.php:37
+msgid "No Scheme"
+msgstr ""
+
+#: options/display/form.php:70
+msgid "Choose the Custom Style you would like to use on this site."
+msgstr ""
+
+#: options/display/form.php:71
+#, php-format
+msgid "Formatting to be used for displaying the style info. Use: <strong>style</strong> for style name, <strong>stylelink</strong> for the style's homepage, <strong>author</strong> for author, <strong>site</strong> for author's site, <strong>version</strong> for version and <strong>comments</strong> for style comments. (code by: %s)"
+msgstr ""
+
+#: options/display/form.php:73
+msgid "Outputs:"
+msgstr ""
+
+#: options/display/form.php:77
+msgid "Live Search"
+msgstr ""
+
+#: options/display/form.php:80
+msgid "Enable Livesearch (default)"
+msgstr ""
+
+#: options/display/form.php:82
+msgid "Disable Livesearch"
+msgstr ""
+
+#: options/display/form.php:83
+#, php-format
+msgid "Livesearch is a javascript powered search-as-you-type solution. %s."
+msgstr ""
+
+#: options/display/form.php:83
+msgid "Would you like to know more?"
+msgstr ""
+
+#: options/display/form.php:88
+msgid "Rolling Archives"
+msgstr ""
+
+#: options/display/form.php:91
+msgid "Enable Rolling Archives (default)"
+msgstr ""
+
+#: options/display/form.php:93
+msgid "Disable Rolling Archives"
+msgstr ""
+
+#: options/display/form.php:94
+msgid "Rolling Archives allow you to page back into the archives without reloading the page."
+msgstr ""
+
+#: options/display/form.php:99
+msgid "AJAX Commenting"
+msgstr ""
+
+#: options/display/form.php:102
+msgid "Enable AJAX Commenting (default)"
+msgstr ""
+
+#: options/display/form.php:104
+msgid "Disable AJAX Commenting"
+msgstr ""
+
+#: options/display/form.php:108
+msgid "Width Type"
+msgstr ""
+
+#: options/display/form.php:111
+msgid "Fixed Width (default)"
+msgstr ""
+
+#: options/display/form.php:113
+msgid "Flexible Width"
+msgstr ""
+
+#: options/display/form.php:115
+msgid "Flexible Width has the K2 page adjust itself according to the width of the browser, up to a maximum and down to a minimum width, so as to not entirely break readability at very high resolutions. Fixed width fixes K2's page width at 780px."
+msgstr ""
+
+#: options/display/form.php:115
+msgid "<em><strong>Beta Note:</strong> Doesn't work in Internet Explorer as far as I know. Suggestions are welcome.</em>"
+msgstr ""
+
+#: options/display/form.php:120
+msgid "Asides"
+msgstr ""
+
+#: options/display/form.php:123
+msgid "Inline Asides"
+msgstr ""
+
+#: options/display/form.php:125
+msgid "Sidebar Asides"
+msgstr ""
+
+#: options/display/form.php:126
+msgid "Determines whether Asides (if they are active) are shown inline or on the sidebar."
+msgstr ""
+
+#: options/display/form.php:130
+msgid "Asides Category"
+msgstr ""
+
+#: options/display/form.php:139
+#: options/display/form.php:146
+msgid "No Asides"
+msgstr ""
+
+#: options/display/form.php:153
+#, php-format
+msgid "Just select a category and it will be displayed using %s."
+msgstr ""
+
+#: options/display/form.php:153
+msgid "Matt's Asides Technique"
+msgstr ""
+
+#: options/display/form.php:157
+msgid "Asides Number"
+msgstr ""
+
+#: options/display/form.php:160
+msgid "Set the number of Asides to show in the Sidebar. Defaults to 3."
+msgstr ""
+
+#: options/display/form.php:164
+msgid "About Text"
+msgstr ""
+
+#: options/display/form.php:168
+msgid "Enter a blurp about yourself here, and it will show up on the frontpage. Deleting the content disables the about blurp."
+msgstr ""
+
+#: options/display/form.php:173
+msgid "Delicious Bookmarks"
+msgstr ""
+
+#: options/display/form.php:175
+msgid "Delicious User Name"
+msgstr ""
+
+#: options/display/form.php:177
+#, php-format
+msgid "Enter your delicious username here, to make use of %s."
+msgstr ""
+
+#: options/display/form.php:182
+msgid "Archives Page"
+msgstr ""
+
+#: options/display/form.php:185
+msgid "Enable the K2 Archives page"
+msgstr ""
+
+#: options/display/form.php:186
+msgid "Enabling this checkbox will create an Archives Page, which will show up in your blog menu as the first page."
+msgstr ""
+
+#: options/display/form.php:192
+msgid "Set Extended Live Archive"
+msgstr ""
+
+#: options/display/form.php:195
+msgid "Setup ELA for K2 Archives page"
+msgstr ""
+
+#: options/display/form.php:196
+#, php-format
+msgid "Set the options of Arnaud's brilliant %s for K2."
+msgstr ""
+
+#: options/display/form.php:196
+msgid "Find out more about ELA"
+msgstr ""
+
+#: options/display/form.php:203
+msgid "Update Options"
+msgstr ""
+
+#: options/display/form.php:209
+#, php-format
+msgid "Help to be had at the %1$s or in the %2$s."
+msgstr ""
+
+#: options/display/form.php:209
+msgid "K2 Support Forums"
+msgstr ""
+
+#: options/display/form.php:209
+msgid "K2 Documentation"
+msgstr ""
+

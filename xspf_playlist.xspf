@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="0" xmlns = "http://xspf.org/ns/0/">
+	<title>Matt Germak Band</title>
+	<trackList>
+		<track>
+			<location>media/01_five_oclock_shadow.mp3</location>
+			<annotation>Five O'Clock Shadow</annotation>
+			<info>http://www.sonicbids.com/epk/lyrics_view.asp?lyrics_id=63847&epk_id=28555</info>
+		</track>
+		<track>
+			<location>media/harpers/coming_home_edit.mp3</location>
+			<annotation>Coming Home - Harpers Ferry 6.28.06</annotation>
+			<info>http://www.sonicbids.com/epk/lyrics_view.asp?lyrics_id=63850&epk_id=28555</info>
+		</track>
+		<track>
+			<location>media/harpers/never_satisfied_edit.mp3</location>
+			<annotation>Never Satisfied - Harpers Ferry 6.28.06</annotation>
+			<info>http://www.sonicbids.com/epk/lyrics_view.asp?lyrics_id=85730&epk_id=28555</info>
+		</track><track>
+			<location>media/04_strangest_days.mp3</location>
+			<annotation>Strangest Days</annotation>
+			<info>http://www.sonicbids.com/epk/lyrics_view.asp?lyrics_id=32908&epk_id=28555</info>
+		</track>
+		<track>
+			<location>media/03_leave_this_train_behind.mp3</location>
+			<annotation>Leave This Train Behind</annotation>
+			<info>http://www.sonicbids.com/epk/lyrics_view.asp?lyrics_id=63848&epk_id=28555</info>
+		</track>
+	</trackList>
+</playlist>
