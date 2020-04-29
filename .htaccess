@@ -1,6 +1,0 @@
-### MIME TYPES ###
-AddType video/x-flv .flv
-AddType application/x-shockwave-flash .swf
-AddType image/x-icon .ico
-AddType video/mp4 .mp4 .m4a
-AddType application/x-httpd-php .xml .rdf
